@@ -1,0 +1,185 @@
+
+
+.background {
+    width: 100%;
+    margin: 0px;
+    display: inline-flex;
+}
+
+body {
+
+  margin: 0px;
+}
+
+.main>div {
+ width: 100%;
+ display: inline;
+ margin: 0px;
+}
+
+#purple_box_1 {
+    height: 34px;
+    width: 166px;
+    display: inline-block;
+    position: relative;
+    background: #ad64c0;
+    color: white;
+    padding-top: 15px;
+    padding-left: 25px;
+    top: 67px;
+}
+
+#purple_box_2 {
+    height: 34px;
+    width: 406px;
+    display: inline;
+    position: absolute;
+    background: #712384;
+    color: white;
+    padding-top: 15px;
+    padding-left: 22px;
+    left: 0px;
+    top: 114px;
+    right: 119px;
+}
+
+#purple_box_3 {
+    height: 28px;
+    width: 197px;
+    display: inline;
+    position: absolute;
+    background: #ad64c0;
+    color: white;
+    padding-top: 10px;
+    padding-left: 25px;
+    top: 162px;
+}
+
+#purple_box_4 {
+    height: 27px;
+    width: 197px;
+    display: inline;
+    position: absolute;
+    background: #a055b4;
+    color: white;
+    padding-top: 11px;
+    padding-left: 25px;
+    top: 200px;
+}
+
+#purple_box_5 {
+    height: 39px;
+    width: 184px;
+    display: inline;
+    position: absolute;
+    background: #883a9d;
+    color: white;
+    padding-top: 15px;
+    padding-left: 25px;
+    top: 237px;
+}
+
+#purple_box_6 {
+    height: 30px;
+    width: 139px;
+    display: inline;
+    position: absolute;
+    background: #9f55b2;
+    color: white;
+    padding-top: 12px;
+    padding-left: 25px;
+    top: 291px;
+}
+
+#kanye_side {
+    position: absolute;
+    margin: 0px;
+    background-image: url(kanye_pic.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 75%;
+    height: 100%;
+
+}
+
+.main2>div {
+height: 100vh;
+  display: inline;
+  position: relative;
+
+}
+
+div#stories {
+    position: absolute;
+    background-color: #ffffff;
+    width: 25%;
+    height: 100%;
+    right: 0px;
+    color: purple;
+}
+
+#symbols {
+  padding-top: 10px;
+    text-align: center;
+    font-size: 10px;
+    float: right;
+    margin: 0px;
+    background: #fef2ff;
+    width: 15%;
+    height: 100%;
+}
+img.resize {
+
+  width: 100%;
+  height: auto;
+}
+
+.bottom {
+  top: 283px;
+}
+
+ul {
+    color: purple;
+    padding-left: 18px;
+    padding-top: 37px;
+    margin: 0px;
+    /* margin-left: -22px; */
+    /* margin-right: 0px; */
+    list-style: none;
+    font-size: 10px;
+    width: 75%;
+    font-family: arial;
+}
+
+
+
+h1 {
+    font-size: 20px;
+    margin: 0px;
+    margin-right: 0px;
+    padding-left: 10px;
+    padding-top: 28px;
+    /* margin-left: 0; */
+    /* margin-right: auto; */
+    width: 81%;
+    font-family: arial;
+}
+
+h6 {
+    font-size: 7px;
+    color: purple;
+    margin: 0px;
+    padding: 11px;
+    font-family: arial;
+}
+
+
+#size_1 {
+  font-size: 15px;
+}
+
+a {
+  color: white;
+}
+
+
